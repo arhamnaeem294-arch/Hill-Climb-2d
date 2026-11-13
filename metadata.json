@@ -1,0 +1,6 @@
+{
+  "name": "Hill Climb Rush: 2D Physics Driving",
+  "description": "A 2D side-scrolling physics driving game featuring suspension dynamics, 4 vehicles, 6 procedural terrain worlds, garage upgrades, and analog gauges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
